@@ -1,0 +1,10 @@
+{
+  "name": "Simplify",
+  "displayName": "Simplify the mdt",
+  "author": "Carrot, Lucky Clover, EchoVespy",
+  "description": "To simplify the texture in mindustry",
+  "version": "v1",
+  "hidden": true,
+  "minGameVersion": "140",
+  "dependencies": []
+}
